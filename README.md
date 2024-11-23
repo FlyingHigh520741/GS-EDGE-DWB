@@ -43,7 +43,7 @@ O nível da bateria é atualizado em tempo real, mostrando o carregamento de 0Ah
 - **Vídeo no YouTube**: https://youtu.be/EFgiFX6zWKA
 
 ## 🛠️ Como Testar o Projeto
-Acesse o link do projeto no Wokwi: [Clique aqui](#).
+Acesse o link do projeto no Wokwi: https://wokwi.com/projects/415088298633271297
 
 Inicie a simulação no Wokwi e acompanhe os seguintes comportamentos:
 - **LEDs** indicando os estados de carregamento, bateria cheia e alerta de temperatura.
