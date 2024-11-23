@@ -39,8 +39,8 @@ Um Dashboard visual foi desenvolvido para exibir os dados monitorados, incluindo
 O nível da bateria é atualizado em tempo real, mostrando o carregamento de 0Ah até 500Ah com base na energia gerada.
 
 ## 🎥 Demonstração
-- **Projeto no Wokwi**: [Clique aqui](#)
-- **Vídeo no YouTube**: [Clique aqui](#)
+- **Projeto no Wokwi**: https://wokwi.com/projects/415088298633271297
+- **Vídeo no YouTube**: https://youtu.be/EFgiFX6zWKA
 
 ## 🛠️ Como Testar o Projeto
 Acesse o link do projeto no Wokwi: [Clique aqui](#).
